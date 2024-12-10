@@ -135,6 +135,7 @@ p {
 
 .scroll-box {
     position: absolute;
+    overflow-x: hideen;
     right: -513px;
     top: 15px;
     width: 300px;
