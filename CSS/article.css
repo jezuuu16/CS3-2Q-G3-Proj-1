@@ -185,6 +185,7 @@ p {
 }
 #section5 {
     background-color: #69c9d0;
+    word-wrap: break-word;
 }
 
 .scroll-text {
